@@ -1,10 +1,10 @@
 {
   "files": {
     "main.js": "./static/js/main.c6a675a7.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.31d98376.js",
+    "runtime-main.js": "./static/js/runtime-main.a94c37b6.js",
     "static/css/2.d1a9f708.chunk.css": "./static/css/2.d1a9f708.chunk.css",
     "static/js/2.7fe7316c.chunk.js": "./static/js/2.7fe7316c.chunk.js",
-    "static/js/3.168f6147.chunk.js": "./static/js/3.168f6147.chunk.js",
+    "static/js/3.76449565.chunk.js": "./static/js/3.76449565.chunk.js",
     "static/js/4.ed7de94f.chunk.js": "./static/js/4.ed7de94f.chunk.js",
     "static/js/5.879aa50f.chunk.js": "./static/js/5.879aa50f.chunk.js",
     "static/js/6.b4e6ebe6.chunk.js": "./static/js/6.b4e6ebe6.chunk.js",
@@ -99,7 +99,7 @@
     "static/media/snc_mint_sound.9de617aa.mp3": "./static/media/snc_mint_sound.9de617aa.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.31d98376.js",
+    "static/js/runtime-main.a94c37b6.js",
     "static/css/2.d1a9f708.chunk.css",
     "static/js/2.7fe7316c.chunk.js",
     "static/js/main.c6a675a7.chunk.js"
